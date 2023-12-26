@@ -1,0 +1,10 @@
+# Use the official MySQL image as a base image
+FROM mysql:latest
+
+# Set environment variables
+ENV MYSQL_DATABASE grocerydb
+ENV MYSQL_USER root
+ENV MYSQL_PASSWORD pass123
+
+# Expose the default MySQL port
+EXPOSE 3306

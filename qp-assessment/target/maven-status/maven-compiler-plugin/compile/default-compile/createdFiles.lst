@@ -1,0 +1,11 @@
+com\grocerybooking\controller\AdminController.class
+com\grocerybooking\model\InventoryUpdateRequest.class
+com\grocerybooking\model\GroceryItem.class
+com\grocerybooking\model\OrderItem.class
+com\grocerybooking\repository\OrderRepository.class
+com\grocerybooking\service\OrderService.class
+com\grocerybooking\controller\UserController.class
+com\grocerybooking\repository\GroceryItemRepository.class
+com\grocerybooking\service\GroceryItemService.class
+com\grocerybooking\exception\CustomException.class
+com\grocerybooking\application\GroceryBookingApplication.class
